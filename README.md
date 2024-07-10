@@ -1,7 +1,7 @@
 # ESP32 LSTM Phenolic Sponge Moisture
 
 ## Introduction
-This repository has files obtained from the development of the final work carried out during the Postgraduate Course in Robotics and Artificial Intelligence (PRIA) taught by the Technological University of Uruguay (URU) and the University of Rio Grande du Sur (BRA).
+This repository has files obtained from the development of the final work carried out during the Postgraduate Course in Robotics and Artificial Intelligence (PRIA) taught by the Universidad Tecnológica de Uruguay - UTEC (URU) and the Universidade Federal do Rio Grande - FURG (BRA).
 
 Among its objectives were:
 - obtain a dataset of covariates that influence the humidity behavior of germinating phenolic sponges in hydroponic agronomy.
