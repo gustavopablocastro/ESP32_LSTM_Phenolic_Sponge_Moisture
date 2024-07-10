@@ -25,6 +25,5 @@ Where the values ​​of the measured variables are shown according to the foll
  - item d = Relative Humidity Germination foam
  - item e = Predicted Relative Humidity for Germination Foam, 30 minutes in the future.
 
-Ingeneiro Gustavo Castro - Julio 2024
-
-###End
+-------------------------------------------------------------------------
+Ingeniero Gustavo Castro - Julio 2024
