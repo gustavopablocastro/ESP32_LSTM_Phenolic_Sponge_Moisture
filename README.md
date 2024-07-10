@@ -16,7 +16,7 @@ In this repository you will find
 - the circuit and firmware of the developed embedded system
 
 The figure below shows the accuracy in operation, predicting 30 minutes (3 steps) into the future.
-[![Embedded system test](1 "Embedded system test")](https://drive.google.com/file/d/1YehtQ63RL4MwR1w5I0YNPriciCXe177q/view?usp=sharing "Embedded system test")
+![](https://github.com/gustavopablocastro/ESP32_LSTM_Phenolic_Sponge_Moisture/blob/main/Embedded_System/Pictures/Sistema_embebido_ensayo.png)
 
 Where the values ​​of the measured variables are shown according to the following references:
  - item a = Room Temperature
